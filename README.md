@@ -32,5 +32,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adventus-tms&show_icons=true&locale=en&layout=compact" alt="adventus-tms" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adventus-tms&" alt="adventus-tms" /></p>
